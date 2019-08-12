@@ -1,0 +1,50 @@
+PODS:
+  - Alamofire (4.8.2)
+  - Hero (1.4.0)
+  - Kingfisher (5.7.0)
+  - Moya (13.0.1):
+    - Moya/Core (= 13.0.1)
+  - Moya/Core (13.0.1):
+    - Alamofire (~> 4.1)
+    - Result (~> 4.1)
+  - pop (1.0.12)
+  - Result (4.1.0)
+  - SnapKit (4.2.0)
+  - SwiftyJSON (4.3.0)
+  - SwiftyUserDefaults (3.0.1)
+
+DEPENDENCIES:
+  - Hero (~> 1.4)
+  - Kingfisher (~> 5.7)
+  - Moya (~> 13.0)
+  - pop (~> 1.0)
+  - SnapKit (~> 4.2)
+  - SwiftyJSON (~> 4.3)
+  - SwiftyUserDefaults (~> 3.0)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - Hero
+    - Kingfisher
+    - Moya
+    - pop
+    - Result
+    - SnapKit
+    - SwiftyJSON
+    - SwiftyUserDefaults
+
+SPEC CHECKSUMS:
+  Alamofire: ae5c501addb7afdbb13687d7f2f722c78734c2d3
+  Hero: bac92350d7201a1a940003e0767c7b52ce7c99a1
+  Kingfisher: c7d211b54f1f30d8060aadab177d52b4349c825b
+  Moya: f4a4b80ff2f8a4ffc208dfb31cd91636622fee6e
+  pop: d582054913807fd11fd50bfe6a539d91c7e1a55a
+  Result: bd966fac789cc6c1563440b348ab2598cc24d5c7
+  SnapKit: fe8a619752f3f27075cc9a90244d75c6c3f27e2a
+  SwiftyJSON: 6faa0040f8b59dead0ee07436cbf76b73c08fd08
+  SwiftyUserDefaults: 3d273b1739b68ada3145dc754a70ec775bc5c8be
+
+PODFILE CHECKSUM: ff8cb4323507690f16ecfda7e14d1de247431f32
+
+COCOAPODS: 1.7.5

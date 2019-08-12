@@ -1,0 +1,16 @@
+
+"list.title" = "Launches";
+"list.sort.date.desc" = "From the latest";
+"list.sort.date.asc" = "From the oldest";
+"list.sort.rocket.asc" = "By rocket";
+"list.sort.cancel" = "Cancel";
+
+"launch.successLaunch" = "Success Launch";
+
+"detail.launch" = "Launch";
+"detail.success" = "Success";
+"detail.core" = "Mission Cores";
+"detail.rocket" = "Rocket type";
+"detail.play" = "Play video";
+"detail.site" = "Launch Site";
+"detail.date" = "Launch Date";
